@@ -1,11 +1,10 @@
-/**
- *
- * @author <#Author#>
+/*
+ * Copyright (c) <#Author#>
  */
 
-public class ___FILEBASENAME___ {
+public class ___FILEBASENAMEASIDENTIFIER___ {
 
-    public ___FILEBASENAME___() {
+    public ___FILEBASENAMEASIDENTIFIER___() {
 
     }
 

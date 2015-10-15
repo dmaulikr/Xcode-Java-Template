@@ -19,4 +19,4 @@ You can now
 2. Inside Xcode create a new file (cmd+N), select "Template" from the left and then select "Java Class".
 3. The filename you choose will automatically be set as the class name and in the initializer method
 
-*By Hendrik Noeller*
+*By Hendrik Noeller, project setup partly from [https://www.youtube.com/watch?v=CmbdOfYNc3g](https://www.youtube.com/watch?v=CmbdOfYNc3g)*
