@@ -19,4 +19,7 @@ You can now
 2. Inside Xcode create a new file (cmd+N), select "Template" from the left and then select "Java Class".
 3. The filename you choose will automatically be set as the class name and in the initializer method
 
+##Other Tips
+To create custom code snippets (e.g. to quickly access "System.out.println("")") just write the desired content of your snippet anywhere inside the code editor, then drag it into the snipped collection in the lower right and finally right click the new snippet at the bottom of the list and enter a name and a shortcut (e.g. "sysout")
+
 *By Hendrik Noeller, project setup partly from [https://www.youtube.com/watch?v=CmbdOfYNc3g](https://www.youtube.com/watch?v=CmbdOfYNc3g)*
