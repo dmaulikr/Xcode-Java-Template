@@ -1,5 +1,6 @@
-/*
- * Copyright (c) <#Author#>
+/**
+ *
+ * @author <#Author#>
  */
 
 public class ___FILEBASENAMEASIDENTIFIER___ {

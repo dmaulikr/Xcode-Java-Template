@@ -31,11 +31,11 @@
 /* Begin PBXLegacyTarget section */
 		B12D4E991BCEE93700C41397 /* Main */ = {
 			isa = PBXLegacyTarget;
-			buildArgumentsString = "$(ACTION) $(TARGETNAME).java";
+			buildArgumentsString = "";
 			buildConfigurationList = B12D4E9C1BCEE93700C41397 /* Build configuration list for PBXLegacyTarget "Main" */;
 			buildPhases = (
 			);
-			buildToolPath = /usr/bin/javac;
+			buildToolPath = /usr/bin/make;
 			buildWorkingDirectory = "";
 			dependencies = (
 			);
